@@ -1,5 +1,3 @@
-"use strict";
-
 // Перепиши функцию makeTransaction() так, чтобы она не 
 // использовала callback - функции onSuccess и onError, 
 // а принимала всего один параметр transaction и возвращала 
